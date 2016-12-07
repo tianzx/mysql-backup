@@ -1,7 +1,7 @@
 #!/bin/bash
 
-USER="root"
-PASSWORD="Smartautotech@123"
+USER="user_name"
+PASSWORD="your_password"
 OUTPUT="/backup/dbbackup/"
  
 rm "$OUTPUT/*gz" > /dev/null 2>&1    
